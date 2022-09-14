@@ -6,3 +6,7 @@ body {
     color: navy;
     margin-left: 20px;
   }
+   /* chasekeir.github.io/ThirdPage */
+   li:hover {background: red;
+    color: #FF00FF;
+              }
