@@ -1,7 +1,10 @@
 body {
     background-color: lightpink;
   }
-  
+  a {
+    color: green;
+    margin-left: 20px;
+  }
   h1 {
     color: navy;
     margin-left: 20px;
@@ -10,3 +13,4 @@ body {
    li:hover {background: red;
     color: #FF00FF;
               }
+
