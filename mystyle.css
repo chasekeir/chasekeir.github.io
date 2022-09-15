@@ -13,4 +13,12 @@ body {
    li:hover {background: red;
     color: #FF00FF;
               }
-
+.para {
+    background-color: blue;
+}
+.title {
+    margin-left: 50 px;
+}
+#fb-root {
+    background-color: lightblue;
+}
